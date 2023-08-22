@@ -1,2 +1,2 @@
-# mobiletabuada
+# mobile
 tabua mobile
